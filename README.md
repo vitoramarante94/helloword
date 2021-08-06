@@ -34,8 +34,8 @@
  
 ## Layout:
 - Para uma padronização de layout foi definido como modelo a ser seguido o painel “vigilância-covid19”.
-- O layout do “vigilância-covid19” contém uma página com apontamentos para facilitar a navegação do painel, porém não é uma página obrigatória, pois em painéis com poucas páginas não se faz necessário.
-- A segunda página do painel é o padrão a ser utilizado para a disponibilização dos dados, onde possui uma barra superior com o nome do painel seguido dos filtros e a logo ao final, uma barra à esquerda do painel com os cards com as informações macro do painel seguidos da data e hora da última atualização (dinâmica) e a fonte de dados e no centro do painel vem os demais gráficos.
+ - O layout do “vigilância-covid19” contém uma página com apontamentos para facilitar a navegação do painel, porém não é uma página obrigatória, pois em painéis com poucas páginas não se faz necessário.
+ - A segunda página do painel é o padrão a ser utilizado para a disponibilização dos dados, onde possui uma barra superior com o nome do painel seguido dos filtros e a logo ao final, uma barra à esquerda do painel com os cards com as informações macro do painel seguidos da data e hora da última atualização (dinâmica) e a fonte de dados e no centro do painel vem os demais gráficos.
 Observação: Outros pontos a serem observados são as cores dos e tamanhos da barra e logo.
  
 ## Publicação do Painel
