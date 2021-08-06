@@ -15,7 +15,7 @@
 - Dentro da pasta do projeto deve conter outras duas pastas: Data (contém as fontes de dados ou scripts) e Source (com o código fonte ou arquivo pbix).
 - As notas de release devem explicar devidamente as alterações realizadas, as medidas criadas, os filtros adicionados e visuais removidos ou adicionados.
 
-![Exemplo de projeto TFS](EBSERH8.jpg)
+![Exemplo de projeto TFS](EBSERH8.JPG)
  
 ## ETL/Power Query:
 - Coerência na modelagem dos dados entre fatos e dimensões, evitando redundância de dados.
