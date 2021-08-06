@@ -22,7 +22,7 @@
 - Quando necessário deve-se criar a tabela Calendário.
 - Os dados devem estar devidamente formatados (texto, decimal, inteiro etc.).
  
-#Fórmulas e Medidas (DAX):
+## Fórmulas e Medidas (DAX):
 - Para melhor organização das medidas, recomenda-se a criação de uma tabela para medidas.
 - As medidas devem ser feitas de forma explícita, evitando utilizar o recurso de cálculo que o Power BI disponibiliza, exemplo: “Soma de NomeDaColuna” ou “Contagem de NomeDaColuna”.
 - As medidas devem ser criadas com o nome em maiúsculo.
